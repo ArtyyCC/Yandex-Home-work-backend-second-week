@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83eaf049-448d-402b-bfe0-faecb42b9e6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Rating_evaluation_service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appModules/api/api-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appModules/api/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appModules/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appModules/http-utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appModules/http-utils/mime-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appModules/http-utils/parse-body.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appModules/http-utils/static-file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appModules/rating/calculations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appModules/rating/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appModules/rating/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appModules/rating/rating-file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appModules/starter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/defaultRouteController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/vote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/rating.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2f5zQu3JvbholIodeIIOHVkpLdJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.app.js.executor": "Run",
+    "Node.js.index.js.executor": "Run",
+    "Node.js.main.js.executor": "Run",
+    "Node.js.mime-types.js.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Artyy/Documents/GitHub/Rating_evaluation_service/app.js",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Artyy\Documents\GitHub\Rating_evaluation_service\appModules\http-utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83eaf049-448d-402b-bfe0-faecb42b9e6f" name="Changes" comment="" />
+      <created>1713105714677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713105714677</updated>
+      <workItem from="1713105717874" duration="8549000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
